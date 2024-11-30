@@ -1,5 +1,8 @@
-magincians = ['alice', 'david', 'caronlina']
-for magician in magincians:
-    print(magician)
+magicians = ['alice', 'david', 'caronlina']
+
+per1 = magicians[2]
+per2 = 'john'
+
+print (f"{per1} {per1}")
 
 

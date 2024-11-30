@@ -1,10 +1,13 @@
-magicians = ['alice', 'david', 'caronlina']
+#magicians = ['alice', 'david', 'caronlina']
 
-per1 = magicians[2]
-per2 = 'john'
+#per1 = magicians[2]
+#per2 = 'john'
 
 #print (f"{per1} {per1}")
 
-print ("")
+#print ("test")
+
+nums = list(range(2,11,3))
+print(nums)
 
 
